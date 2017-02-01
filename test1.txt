@@ -1,0 +1,36 @@
+< DOC >
+hello 123 
+113hi
+them's are 14cool
+-23.4 celcius
+</Doc>
+<Text>
+<P>
+good-day-sir
+should-be-apost'
+what --- are you talking about??
+...
+
+</P>
+</Text>
+
+<text>
+	+34
+	0.24
+	-999
+</text>
+
+
+<P>
+hi
+<text>
+errrrssss
+</P>
+</text>
+
+< DOC >
+hello 123 
+113hi
+them's are 14cool
+-23.4 celcius
+</Doc>

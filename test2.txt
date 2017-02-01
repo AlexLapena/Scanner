@@ -1,0 +1,31 @@
+<Doc>
+test
+<P>
+egg
+</P>
+</Doc>
+
+<Hi>
+this is some text
+to be filtered out!
+<P>
+should also be filtered
+</P>
+</Hi>
+
+<p>
+test me
+<doc>
+yo whats up this works
+<egg>
+this is filtered
+</egg>
+</doc>
+</p>
+
+<P>
+hi
+<text>
+errrrssss
+</P>
+</text>

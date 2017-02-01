@@ -1,0 +1,36 @@
+Alex Lapena
+0844071
+2 February 2017
+CIS*4650 Compilers
+
+**************
+Scanner Readme
+**************
+
+This directory containts files required to build a scanner for SGML.
+
+The scanner will tokenize open and close tags and then sort relevant information and label it.
+
+**********
+USER GUIDE:
+**********
+
+$make
+$java Scanner < filename.txt
+
+$make clean
+
+****************************
+ASSUMPTIONS AND LIMITATIONS:
+****************************
+- Assume the user is inputting a .txt file
+- Uses appropriate SGML format
+
+- When an irrelevent open-tag does not have a matching irrelevent close-tag, the program is locked.
+- Attributes within open-tags are not processed, and will lead to the above issue.
+- Hypenated words with apostrophes are considered hyphenated with an apostraphe as punctuation.
+
+*******************
+FUTURE IMPROVEMENTS:
+*******************
+- Implement more user proofing (such as throwing errors for issues like "this'is'an'error")
